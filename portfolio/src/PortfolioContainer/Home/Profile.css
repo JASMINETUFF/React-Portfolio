@@ -5,7 +5,7 @@
     justify-content: center;
     height: 10%;
     min-height: fit-content;
-    background-image: url("../../../src/assets/Home/1.png");
+    /* background-image: url("../../../src/assets/Home/1.png"); */
 }
 
 .profile-parent {
@@ -49,8 +49,8 @@
 
 .profile-options .highlighted-btn:hover {
     margin: 0 0 0 28px;
-    background-color: rgb(156, 151, 130);
-    color:black;
+    background-color:#1f2235;
+    color:#f790fa;
 }
 
 .profile-picture {
@@ -59,19 +59,20 @@
     justify-content: center;
     box-shadow: 0 1px 0px 0px var(--white); 
     border-radius:50%;
-    height: 380px;
-    width: 380px;
-    margin: 0 0px 0 100px;
+    height: 280px;
+    width: 280px;
+    margin: 0 0px 0 90px;
 }
 
 .profile-picture-background {
-    height:92%;
-    width:92%;
+    height:99%;
+    width:99%;
     background-image: url("../../../src/assets/Home/Untitled\ design.jpg");
     background-size: cover;
     border-radius:50%;
     background-repeat:no-repeat;
     background-position:center;
+    margin-top:22px;
 }
 
 .profile-picture-background:hover {

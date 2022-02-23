@@ -51,7 +51,7 @@ export default function Profile() {
                   ]}
                 />
               </h1>
-              <span className="profile-role-tagline">'catchy slogan here'</span>
+              <span className="profile-role-tagline">If at first you don’t succeed; call it version 1.0</span>
             </span>
           </div>
           <div className="profile-options">
