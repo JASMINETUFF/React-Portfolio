@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/aboutme/static/css/main.8d14c5d1.css",
-    "main.js": "/React-Portfolio/aboutme/static/js/main.08960339.js",
+    "main.js": "/React-Portfolio/aboutme/static/js/main.a6e8317a.js",
     "static/media/1.png": "/React-Portfolio/aboutme/static/media/1.45c9afc9ab2c29056637.png",
     "static/media/Poppins-Thin.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -13,10 +13,10 @@
     "static/media/Untitled design.jpg": "/React-Portfolio/aboutme/static/media/Untitled design.a0872eec6e522b0f1fb0.jpg",
     "index.html": "/React-Portfolio/aboutme/index.html",
     "main.8d14c5d1.css.map": "/React-Portfolio/aboutme/static/css/main.8d14c5d1.css.map",
-    "main.08960339.js.map": "/React-Portfolio/aboutme/static/js/main.08960339.js.map"
+    "main.a6e8317a.js.map": "/React-Portfolio/aboutme/static/js/main.a6e8317a.js.map"
   },
   "entrypoints": [
     "static/css/main.8d14c5d1.css",
-    "static/js/main.08960339.js"
+    "static/js/main.a6e8317a.js"
   ]
 }
