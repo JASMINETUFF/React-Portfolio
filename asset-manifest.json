@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.2fc0f0b1.css",
-    "main.js": "/React-Portfolio/static/js/main.08960339.js",
-    "static/media/1.png": "/React-Portfolio/static/media/1.45c9afc9ab2c29056637.png",
-    "static/media/Poppins-Thin.ttf": "/React-Portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/React-Portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/React-Portfolio/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/React-Portfolio/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/React-Portfolio/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/React-Portfolio/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/React-Portfolio/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/Untitled design.jpg": "/React-Portfolio/static/media/Untitled design.a0872eec6e522b0f1fb0.jpg",
-    "index.html": "/React-Portfolio/index.html",
-    "main.2fc0f0b1.css.map": "/React-Portfolio/static/css/main.2fc0f0b1.css.map",
-    "main.08960339.js.map": "/React-Portfolio/static/js/main.08960339.js.map"
+    "main.css": "/React-Portfolio/aboutme/static/css/main.8d14c5d1.css",
+    "main.js": "/React-Portfolio/aboutme/static/js/main.08960339.js",
+    "static/media/1.png": "/React-Portfolio/aboutme/static/media/1.45c9afc9ab2c29056637.png",
+    "static/media/Poppins-Thin.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/React-Portfolio/aboutme/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/React-Portfolio/aboutme/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/React-Portfolio/aboutme/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/Untitled design.jpg": "/React-Portfolio/aboutme/static/media/Untitled design.a0872eec6e522b0f1fb0.jpg",
+    "index.html": "/React-Portfolio/aboutme/index.html",
+    "main.8d14c5d1.css.map": "/React-Portfolio/aboutme/static/css/main.8d14c5d1.css.map",
+    "main.08960339.js.map": "/React-Portfolio/aboutme/static/js/main.08960339.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fc0f0b1.css",
+    "static/css/main.8d14c5d1.css",
     "static/js/main.08960339.js"
   ]
 }
