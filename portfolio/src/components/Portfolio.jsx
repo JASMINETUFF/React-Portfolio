@@ -4,7 +4,7 @@ function Portfolio() {
   return (
     
     <div class="container" id="myWork">
-        <h1 class="text-center">My Work</h1>
+        {/* <h1 class="text-center">My Work</h1>
         <div class="row">
             <div class="col-6">
             </div>
@@ -136,7 +136,7 @@ function Portfolio() {
                     <i class="fa fa-arrow-right"></i>
                 </a>
             </div>
-        </div>
+        </div> */}
     </div>
 
   );
